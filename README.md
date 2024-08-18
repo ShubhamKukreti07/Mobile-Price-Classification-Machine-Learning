@@ -1,1 +1,3 @@
 # Mobile-Price-Classification-Machine-Learning
+
+Developed a predictive model to classify mobile phone prices into distinct categories based on various features such as battery life, screen size, RAM, and processor speed. Implemented and compared multiple machine learning algorithms, including Logistic Regression, Decision Trees, Random Forest, and Support Vector Machines (SVM), to identify the most accurate model. Evaluated the models using metrics like accuracy, precision, and recall to optimize performance and ensure reliable price prediction. This project demonstrates strong skills in data preprocessing, model selection, and performance evaluation.
